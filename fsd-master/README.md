@@ -62,6 +62,3 @@ some student details:
 
 admin details:
 admin@gmail.com, admin@123
-
-
-Github Repo Link : https://github.com/Preetham-jayam/fsd
